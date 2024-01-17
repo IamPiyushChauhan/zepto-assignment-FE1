@@ -1,5 +1,6 @@
 # Zepto Assignment FE1 - React Project
 
+
 ## Project Overview
 
 This React project, titled "Zepto Assignment FE1," is a simple implementation where clicking on the input field displays a list of items. As you type, the list dynamically filters to show only items that match your input. The project incorporates the functionality of turning selected items into chips at the top of the input field, with each chip featuring an "X" icon for removal. Removed chips are added back to the list.
@@ -64,3 +65,8 @@ The project is organized with the following directory structure:
 - React
 - React-dom
 - React-scripts
+
+## GIF
+
+![9DoIwm](https://github.com/IamPiyushChauhan/zepto-assignment-FE1/assets/130564688/a3955fd0-7d65-4e69-8386-02f8e4c61ab5)
+
